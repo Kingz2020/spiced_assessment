@@ -1,0 +1,46 @@
+/*
+See index.html for instructions.
+*/
+div.same{
+    height:200px;
+    width:200px;
+    float:left;
+    margin: 2px;
+
+}
+div.small{
+    height:100px;
+    width:100px;
+   
+}
+
+div#first{
+    background-color: #8a8282;
+}
+div#second{
+    background-color: #0e0b0b;
+}
+div#third{
+    background-color: #0906bd;
+}
+div#fourth{
+    background-color: #ad09a0;
+}
+div#small1{
+    background-color: #e79529;float:right;
+}
+div#small2{
+    background-color: #d9e94f;float:left;
+}
+div#small2a{
+    background-color: #0d0e0a;float:left;
+}
+div#small3{
+    background-color: #179227;float:left;
+}
+div#small3a{
+    background-color: #0906bd;float:left;
+}
+div#small4{
+    background-color: #ec96e5;float:left;
+}
